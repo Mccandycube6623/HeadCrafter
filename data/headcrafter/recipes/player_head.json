@@ -1,0 +1,23 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "CCC",
+        "GFG",        
+        "GGG"
+    ],
+    "key":{
+        "C":{
+            "item":"minecraft:black_terracotta"
+        },
+        "F":{
+            "item":"minecraft:diamond"
+        },
+        "G":{
+            "item":"minecraft:terracotta"
+        }
+    },
+    "result":{
+        "item":"minecraft:player_head",
+        "count":1
+    }
+}
